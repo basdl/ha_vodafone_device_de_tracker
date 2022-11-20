@@ -1,0 +1,8 @@
+{
+    "domain": "vodafone_power_station_de",
+    "name": "Vodafone Power Station DE",
+    "documentation": "https://github.com/basdl/ha_vodafone_device_de_tracker",
+    "codeowners": ["@basdl"],
+    "version": "1.0",
+    "issue_tracker": "https://github.com/basdl/ha_vodafone_device_de_tracker/issues"
+  }

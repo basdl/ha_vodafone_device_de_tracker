@@ -1,0 +1,6 @@
+{
+    "name": "Vodafone Commscope Station Device Tracker",
+    "country": "DE",
+    "render_readme": true,
+    "domains": ["device_tracker"]
+}
