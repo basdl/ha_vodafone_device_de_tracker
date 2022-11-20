@@ -21,7 +21,7 @@ Manually copy the content of this repo in your `custom_components/` folder.
 Add this tracker to your `device_tracker` section:
 
 ```yaml
-- platform: vodafone_power_station_de
+- platform: vodafone_power_station
   interval_seconds: 60
   host: XX.XX.XX.XX
   username: your_username_here
