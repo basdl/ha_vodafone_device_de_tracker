@@ -9,7 +9,7 @@ It extracts the list of connected devices and expose them to Home Assistant.
 
 ### Option 1
 
-Use [HACS](https://hacs.xyz/) and add this repo: `https://github.com/basdk/ha_vodafone_device_de_tracker`.
+Use [HACS](https://hacs.xyz/) and add this repo: `https://github.com/basdl/ha_vodafone_device_de_tracker`.
 
 ### Option 2
 

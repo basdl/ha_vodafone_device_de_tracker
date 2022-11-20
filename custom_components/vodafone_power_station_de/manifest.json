@@ -4,5 +4,6 @@
     "documentation": "https://github.com/basdl/ha_vodafone_device_de_tracker",
     "codeowners": ["@basdl"],
     "version": "1.0",
+    "requirements": ["sjcl==0.2.1"],
     "issue_tracker": "https://github.com/basdl/ha_vodafone_device_de_tracker/issues"
   }

@@ -1,7 +1,6 @@
 import sjcl
 from Crypto.Hash import SHA256
 
-
 def doPbkdf2NotCoded(passwd, saltLocal):
     derivedKey = sjcl.sjcl.PBKDF2(passwd, saltLocal, hmac_hash_module=SHA256)
     hexdevkey = derivedKey.hex()
