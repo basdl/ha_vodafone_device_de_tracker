@@ -1,5 +1,5 @@
 {
-  "domain": "bosch",
+  "domain": "vodafone",
   "name": "Vodafone Power Station DE",
   "documentation": "https://github.com/basdl/ha_vodafone_device_de_tracker",
   "codeowners": [
